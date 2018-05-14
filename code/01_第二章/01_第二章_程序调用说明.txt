@@ -1,0 +1,4 @@
+1. 先重命名，去掉两个文件01_第二章_  前缀
+2. 运行datafile.m  生成数据
+3. 加载数据，命令 load data.mat 
+4. 调用BP_BACK(data,0.9)
